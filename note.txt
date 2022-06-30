@@ -1,0 +1,5 @@
+Body-------
+font family ;
+logo lato medium , font size 30px, color:#333333,,lato regualr ,font 16px , color :#8e8e8e
+banner: lato bold ,60px ,color:#8e8e8e
+roboto regular 16px ,medium
